@@ -24,7 +24,6 @@ This project uses IBM's Telco Customer Churn sample dataset ([Kaggle dataset](ht
 |---|---|
 | `MSCS_634_ProjectDeliverable_1.ipynb` | Notebook with all code, comments, visualizations and written explanations |
 | `README.md` | This summary |
-| `Telco-Customer-Churn.csv` | Local copy of the data (optional; the notebook downloads it if missing) |
 
 ## Data Cleaning Steps
 
@@ -62,7 +61,7 @@ All 7,043 customer records were retained.
 
 ## How to Run the Notebook
 
-1. Open `MSCS_634_ProjectDeliverable_1.ipynb` in Jupyter or Google Colab.
+1. Open `MSCS_634_ProjectDeliverable_1(2).ipynb` in Jupyter or Google Colab.
 2. Run the cells from top to bottom. The first code cell loads the public IBM CSV automatically.
 3. For an offline run, place the CSV beside the notebook as `Telco-Customer-Churn.csv`.
 
